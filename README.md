@@ -22,7 +22,7 @@
 
 - :telescope:
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring end Technical Content Writing.
 
 - :zap: In my free time, i solution tasks on GeeksforGeeks and read tech articles.
 
