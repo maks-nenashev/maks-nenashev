@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=maks-nenashev&style=flat-square&color=blue" alt=""/>
 </div>
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <!img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
  
  --- 
