@@ -31,6 +31,7 @@
  ---
 
 :hammer_and_wrench: Languages and Tools :
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -51,6 +52,7 @@
 
 ---
 
-:fire: My Stats :
+:fire: My Stats 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maks-nenashev&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maks-nenashev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
