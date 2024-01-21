@@ -1,10 +1,10 @@
 <h1 align="center">
  Hi there 👋
   </h1>
-  
+  <iframe src="https://giphy.com/embed/3ohhwfAa9rbXaZe86c" width="322" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-halloween-twerk-3ohhwfAa9rbXaZe86c">via GIPHY</a></p>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<img src="https://giphy.com/embed/8DUxtTxFntY7lpJnzy" width="100"/>
+
   </div>
 
 <div id="badges" align="center">
