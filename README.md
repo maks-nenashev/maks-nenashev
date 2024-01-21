@@ -4,7 +4,7 @@
   
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<iframe src="https://giphy.com/embed/8DUxtTxFntY7lpJnzy" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HBOMax-hbomax-satcthemovie-sex-and-the-city-movie-8DUxtTxFntY7lpJnzy">via GIPHY</a></p>
+<img src="https://giphy.com/embed/8DUxtTxFntY7lpJnzy" width="100" height="100"/>
   </div>
 
 <div id="badges" align="center">
