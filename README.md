@@ -35,7 +35,7 @@
 
  ---
 
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools : Web Development
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -54,7 +54,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />&nbsp;
+
+
+:hammer_and_wrench: Languages and Tools : Data Analysis
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
+
 ---
 
 :fire: My Stats   <p> <img src="https://komarev.com/ghpvc/?username=maks-nenashev&style=flat-square&color=blue" alt=""/></p>
