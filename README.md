@@ -34,7 +34,7 @@
 
  ---
 
-:hammer_and_wrench: Languages and Tools : Web Development
+:hammer_and_wrench: Languages and Tools : Web Development :fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -57,9 +57,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
 
 
+---
 
-
-:hammer_and_wrench: Languages and Tools : Data Analysis
+:hammer_and_wrench: Languages and Tools : Data Analysis :fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
