@@ -49,16 +49,20 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
+
+
 
 
 :hammer_and_wrench: Languages and Tools : Data Analysis
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
 ---
 
 :fire: My Stats   <p> <img src="https://komarev.com/ghpvc/?username=maks-nenashev&style=flat-square&color=blue" alt=""/></p>
