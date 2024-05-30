@@ -22,7 +22,7 @@
  
  --- 
  :man_technologist: About Me :
-  I am a very ambitious beginner Ruby on Rails Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  I am a very ambitious Ruby on Rails Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: Programming is a hobby for me.
 
