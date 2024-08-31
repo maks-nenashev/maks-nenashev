@@ -3,7 +3,7 @@
   </h1>
  
   <div id="header" align="center">
-  <!img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 
 <div id="badges" align="center">
@@ -22,7 +22,7 @@
  
  --- 
  :man_technologist: About Me :
-  I am a very ambitious Ruby on Rails Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+   I'm a very ambitious Big Data Engineer,  also self-taught passionate Ruby on Rails Developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: Programming is a hobby for me.
 
