@@ -21,7 +21,7 @@
 </div> 
  
  --- 
- :man_technologist: About Me :
+ 🐦‍🔥 About Me :
  I'm a very ambitious Data Research! Also self-taught passionate Ruby on Rails Developer from Ukraine!!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: Programming is a hobby for me.
