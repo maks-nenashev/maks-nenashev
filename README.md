@@ -29,7 +29,7 @@
 
 - :zap: In my free time, i solution tasks on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
+- :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
 
  ---
 
