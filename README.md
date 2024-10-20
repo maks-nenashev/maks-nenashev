@@ -63,6 +63,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />&nbsp;
