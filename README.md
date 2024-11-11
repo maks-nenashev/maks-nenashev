@@ -61,7 +61,7 @@
 :hammer_and_wrench: Languages and Tools : Data Analysis :fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" width="40" height="40" />&nbsp;
