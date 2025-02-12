@@ -60,7 +60,7 @@
 
 ---
 
-:hammer_and_wrench: Languages and Tools : Data Analysis :fire:
+:hammer_and_wrench: Languages and Tools : Data Analysis & Data Engineering:fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" width="40" height="40" />&nbsp;
