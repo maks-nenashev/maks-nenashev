@@ -3,13 +3,15 @@
   </h1>
  
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <!img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maksym-nenashev-0627ab220/">
     <!img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+     <!img src="https://maksym-nenashev.imgix.net/WSB-NLU.jpeg"/>
+           <img src="https://maksym-nenashev.imgix.net/MN.jpeg" width="200" height="240" />
+</a>
 </div>
 
 <div id="header" align="center">
