@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/maksym-nenashev-0627ab220/">
     <!img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      <!img src="https://maksym-nenashev.imgix.net/WSB-NLU.jpeg"/>
-           <img src="https://maksym-nenashev.imgix.net/MN.jpeg" width="200" height="240" />
+           <img src="https://maksym-nenashev.imgix.net/MN.jpeg" width="200" height="260" />
 </a>
 </div>
 
