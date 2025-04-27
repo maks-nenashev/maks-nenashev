@@ -23,7 +23,7 @@
 </div> 
  
  --- 
- 🐦‍🔥 About Me :
+ 🐦‍🔥 About Me:
   I'm a very ambitious programmer who is trying 👀       to get a Master's degree, Research Analyst!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: Programming is a hobby for me.
 
