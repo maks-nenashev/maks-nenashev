@@ -23,13 +23,14 @@
 </div> 
  
  --- 
- 🐦‍🔥 About Me:
-  I'm a very ambitious programmer who is trying 👀       to get a Master's degree, Research Analyst!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: Programming is a hobby for me.
+### 🐦‍🔥 About Me
 
-- :seedling: Exploring end Technical Content Writing.
+🎓 I'm a passionate programmer and Master's student in Data Analysis.  
+🔍 I focus on independent platforms, clean architecture, and data-driven solutions.  
+🧠 Programming is not just a hobby — it's a mission.
 
-- :zap: In my free time 👀 i solution tasks on GeeksforGeeks and read tech articles.
+- 🛠 Exploring technical writing and architecture.
+- 💬 Ask me about `Ruby`, `R`, `Python`, or `data science`.
 
 - :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
 
