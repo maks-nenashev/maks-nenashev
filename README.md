@@ -30,7 +30,7 @@
 🧠 Programming is not just a hobby — it's a mission.
 
 - 🛠 Exploring technical writing and architecture.
-- 💬 Ask me about `Ruby`, `R`, `Python`, or `data science`.
+- 💬 Ask me about `Ruby`, `R`, or `data science`.
 
 - :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
 
