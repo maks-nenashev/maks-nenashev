@@ -25,7 +25,7 @@
  --- 
 ### 🐦‍🔥 About Me
 
-🎓 I'm a passionate programmer and Master's student in Data Analysis.  
+🎓 I'm a passionate programmer and Master's in Data Analysis.  
 🔍 I focus on independent platforms, clean architecture, and data-driven solutions.  
 🧠 Programming is not just a hobby — it's a mission.
 
