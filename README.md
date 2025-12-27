@@ -76,6 +76,8 @@ I’m particularly interested in:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />&nbsp;
