@@ -25,12 +25,15 @@
  --- 
 ### 🐦‍🔥 About Me
 
-System Engineer and Software Developer with hands-on experience in Ruby on Rails,  
-data analytics using R/Shiny, and building production-grade ML systems with Python,  
+System Engineer and Software Developer with hands-on experience in Ruby on Rails,
+data analytics using R/Shiny, and building production-grade ML systems with Python,
 Keras, and TensorFlow.
 
-I design and implement end-to-end platforms, including backend logic, APIs,  
-data processing and analysis, visualization, and AI-driven decision-making systems.
+I design and implement end-to-end platforms, including backend logic, APIs,
+data processing and analysis, visualization, and AI-driven decision-making systems,
+with a strong focus on asynchronous engines, data-driven platforms, and
+production-ready AI systems.
+
 
 
 - :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
