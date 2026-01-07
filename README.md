@@ -25,18 +25,13 @@
  --- 
 ### 🐦‍🔥 About Me
 
-Software developer and Data Analysis (MSc) graduate focused on building data-centric platforms and analytical systems.
-I design and implement systems where clean architecture, data integrity, and real-world constraints matter more than hype.
+System Engineer and Software Developer with hands-on experience in Ruby on Rails,  
+data analytics using R/Shiny, and building production-grade ML systems with Python,  
+Keras, and TensorFlow.
 
-My work spans backend engineering, data processing, and applied analytics — from ETL pipelines and forecasting models to asynchronous, cross-border platforms with complex domain logic.
+I design and implement end-to-end platforms, including backend logic, APIs,  
+data processing and analysis, visualization, and AI-driven decision-making systems.
 
-I’m particularly interested in:
-
-- data-driven system design
-
-- scalable backend architectures
-
-- analytical tooling with real operational impact
 
 - :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
 
