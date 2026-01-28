@@ -27,7 +27,7 @@
 
 System Engineer and Software Developer with hands-on experience in Ruby on Rails,
 data analytics using R/Shiny, and building production-grade ML systems with Python,
-Keras, and TensorFlow.
+Keras, Scikit-learn, PyTorch, and TensorFlow.
 
 I design and implement end-to-end platforms, including backend logic, APIs,
 data processing and analysis, visualization, and AI-driven decision-making systems,
