@@ -40,7 +40,7 @@ production-ready AI systems.
 
  ---
 
-:hammer_and_wrench: Languages and Tools : Web Development :fire:
+:hammer_and_wrench: Languages and Tools: Web Development :fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" />&nbsp;
@@ -63,12 +63,9 @@ production-ready AI systems.
 
 ---
 
-:hammer_and_wrench: Languages and Tools : Data Analysis & Data Engineering:fire:
+:hammer_and_wrench: Languages and Tools: Data Analysis + Data Engineering = ML Engineering :fire:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" width="40" height="40" />&nbsp;
@@ -78,6 +75,10 @@ production-ready AI systems.
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />&nbsp;
