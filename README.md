@@ -25,15 +25,31 @@
  --- 
 ### 🐦‍🔥 About Me
 
-System Engineer and Software Developer with hands-on experience in Ruby on Rails,
-data analytics using R/Shiny, and building production-grade ML systems with Python,
-Keras, Scikit-learn, PyTorch, and TensorFlow.
+# Maksym Nenashev
+### Systems Architect & University Lecturer
 
-I design and implement end-to-end platforms, including backend logic, APIs,
-data processing and analysis, visualization, and AI-driven decision-making systems,
-with a strong focus on asynchronous engines, data-driven platforms, and
-production-ready AI systems.
+I design and build production-first, asynchronous platforms where **deterministic policy layers govern probabilistic AI models**. Specialized in high-reliability backend architecture, spatial-vector search, and distributed multimodal CV/NLP systems.
 
+---
+
+### 🛠 Core Stack & Engineering Domain
+
+* **Architecture & Control Layer:** Ruby on Rails, Plain Old Ruby Policy Engines, REST/gRPC APIs, Zero-Trust Protocols.
+* **AI Infrastructure & CV/NLP:** Python, PyTorch, DINOv2, ArcFace, Multimodal Ensemble Moderation.
+* **Data Systems & Analytics:** PostgreSQL (`pgvector`, PostGIS), R / Shiny (Data Analysis & Analytics).
+* **Client Synchronization:** Dart / Flutter (Cross-platform integration).
+
+---
+
+### 🔬 Academic & Production Focus
+
+* **FindWay.pro:** Asynchronous search infrastructure for missing persons, animals, and assets using spatial-vector indexing and zero-trust coordinate exchange.
+* **Data Sentinel:** Enterprise document auditing and system protection platform.
+* **Academia & Teaching:** University Lecturer (Data Analysis in R & Python) | Active R&D in distributed computer vision topologies, biometric security, and spatial analytics.
+
+---
+
+> **Engineering Principle:** Policy-layer is the authority. Safety first, false positives minimized to zero, strict reproducibility. No magic.
 
 
 - :mailbox: How to reach me    [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Nenashev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
