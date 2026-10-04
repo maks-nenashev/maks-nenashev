@@ -6,7 +6,6 @@
   ### Systems Architect & University Lecturer
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Nenashev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=maks-nenashev&style=flat-square&color=blue)](https://github.com/maks-nenashev)
 </div>
 
 ---
