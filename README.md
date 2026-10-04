@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://maksym-nenashev.imgix.net/MN.jpeg" width="160" height="210" style="border-radius: 8px;" alt="Maksym Nenashev"/>
- 
   
-  # <img width="40" height="40" alt="Gemini_Generated_Image_n77zfxn77zfxn77z" src="https://github.com/user-attachments/assets/0e28512a-5a21-4052-ad6e-19b1c4ab269d" />  Maksym Nenashev
-  ### Systems Architect & University Lecturer
+  <h1>
+    <img width="36" height="36" style="vertical-align: middle;" alt="Logo" src="https://github.com/user-attachments/assets/0e28512a-5a21-4052-ad6e-19b1c4ab269d" />
+    Maksym Nenashev
+  </h1>
+  
+  <h3>Systems Architect & University Lecturer</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Nenashev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
 </div>
@@ -16,8 +19,8 @@ I design and build production-first, asynchronous platforms where **deterministi
 
 ### 🛠 Core Stack & Engineering Domain
 
-* **Architecture & Control Layer:** Ruby on Rails, Plain Old Ruby Policy Engines, REST/gRPC APIs, Zero-Trust Protocols.
-* **AI Infrastructure & CV/NLP:** Python, PyTorch, DINOv2, ArcFace, Multimodal Ensemble Moderation.
+* **Architecture & Control Layer:** Policy-First System Governance, Zero-Trust Protocols, High-Concurrency APIs (REST/gRPC), Modular Rails Core.
+* **AI Infrastructure & CV/NLP:** Python, PyTorch, DINOv2, YOLOv8, ArcFace, Scikit-learn, Multimodal Ensemble Moderation.
 * **Data Systems & Analytics:** PostgreSQL (`pgvector`, PostGIS), R / Shiny (Data Analysis & Analytics).
 * **Client Synchronization:** Dart / Flutter (Cross-platform integration).
 
