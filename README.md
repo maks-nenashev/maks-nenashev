@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://maksym-nenashev.imgix.net/MN.jpeg" width="160" height="210" style="border-radius: 8px;" alt="Maksym Nenashev"/>
+ 
   
-  # Maksym Nenashev
+  # <img width="40" height="40" alt="Gemini_Generated_Image_n77zfxn77zfxn77z" src="https://github.com/user-attachments/assets/0e28512a-5a21-4052-ad6e-19b1c4ab269d" />  Maksym Nenashev
   ### Systems Architect & University Lecturer
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Nenashev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maksym-nenashev-0627ab220/)
@@ -9,8 +10,6 @@
 </div>
 
 ---
-
-### 🐦‍🔥 About Me
 
 I design and build production-first, asynchronous platforms where **deterministic policy layers govern probabilistic AI models**. Specialized in high-reliability backend architecture, spatial-vector search, and distributed multimodal CV/NLP systems.
 
